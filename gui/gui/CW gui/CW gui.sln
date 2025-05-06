@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW gui", "CW gui.csproj", "{9FECE8EE-438C-445D-962E-63E35124C477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FECE8EE-438C-445D-962E-63E35124C477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FECE8EE-438C-445D-962E-63E35124C477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FECE8EE-438C-445D-962E-63E35124C477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FECE8EE-438C-445D-962E-63E35124C477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B614B9-821B-4740-9239-52C57A8D483B}
+	EndGlobalSection
+EndGlobal
